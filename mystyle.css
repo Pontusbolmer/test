@@ -6,10 +6,19 @@ background-size: cover;
 }
 
 
+
+
+/****GLOBAL****/
+
+
+
+/******HEADER WORKS*****/
+
 header {
 width: 100%;
 height: 100px;
 background-color: black;
+
 
 }
 
@@ -17,6 +26,13 @@ background-color: black;
 .hmeanu{
     color:white;
     text-align: center;
-    padding: 20px;
+ 
     
+}
+
+
+.cartBalls {
+    text-align: right;
+
+
 }
